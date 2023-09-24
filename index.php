@@ -47,7 +47,7 @@
 		
 		<main class="limiter">
 
-			<section class="container-login100" style="background-image: url('_img/_backgrounds/bg-01.jpg');">
+			<section class="container-login100" style="background-image: url('img/backgrounds/bg-01.jpg');">
 				<section class="wrap-login100 p-t-30 p-b-50">
 
 					<!-- FORMULARIO - Login -->
